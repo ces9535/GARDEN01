@@ -9,9 +9,9 @@
 #define reminder 5 // if the streak is longer than this, send a reminder
 
 // Report time
-#define report_hour 23
-#define report_minute 47
-#define report_second 30
+#define report_hour 19
+#define report_minute 0
+#define report_second 0
 
 // The user pre-defines their desired plant here
 #define myplant "Example 1"
